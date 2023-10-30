@@ -106,10 +106,6 @@ deploy:
   repo: https://github.com/maozhg/weblink.git
   branch: main
 
-menu:
-  Home: /
-  Archives: /archives
-  Categories: /categories
-  Tags: /tags
+
 
 
