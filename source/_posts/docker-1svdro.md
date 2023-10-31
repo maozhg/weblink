@@ -3,7 +3,7 @@ title: docker
 date: '2023-10-24 18:17:58'
 updated: '2023-10-27 17:04:49'
 categories: [技术]
-tags: ['yunwei']
+tags: ['运维']
 comments: true
 toc: true
 ---

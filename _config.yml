@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 收藏的地址
+title: 木聪的记录
 subtitle: '别忘记目标'
 description: ''
 keywords:
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Hacker
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
