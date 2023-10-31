@@ -1,7 +1,7 @@
 ---
 title: 第五天
 date: '2023-10-31 15:05:05'
-updated: '2023-10-31 15:05:27'
+updated: '2023-10-31 15:08:52'
 tags:
   - 每日10个
   - 考研/单词
@@ -11,7 +11,9 @@ toc: true
 
 
 
-according to /ə'kɔ:dɪŋ tə/ prep.据/照…(所说、所写)；按…，视…   [必应 ](https://cn.bing.com/search?q=according to)   [必应图片](https://cn.bing.com/images/search?q=according to)  [百度](https://www.baidu.com/s?wd=according to) [百度图片](https://image.baidu.com/search/index?tn=baiduimage&word=according to)
+‍
+
+according to /ə'kɔ:dɪŋ tə/ prep.据/照…(所说、所写)；按…，视…     [必应 ](https://cn.bing.com/search?q=according to)     [必应图片](https://cn.bing.com/images/search?q=according to)  [百度](https://www.baidu.com/s?wd=according to) [百度图片](https://image.baidu.com/search/index?tn=baiduimage&word=according to)
 
 accordingly /ə'kɔ:dɪŋli/ ad.相应地，照着办，按照；于是，因此   [必应 ](https://cn.bing.com/search?q=accordingly)   [必应图片](https://cn.bing.com/images/search?q=accordingly)  [百度](https://www.baidu.com/s?wd=accordingly) [百度图片](https://image.baidu.com/search/index?tn=baiduimage&word=accordingly)
 
