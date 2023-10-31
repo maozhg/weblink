@@ -1,12 +1,14 @@
 ---
 title: picgo+github图床
 date: '2023-10-24 15:15:32'
-updated: '2023-10-31 11:10:49'
+updated: '2023-10-31 11:30:58'
 comments: true
 toc: true
 ---
 
 # picgo+github图床
+
+categories: ["技术"]
 
 # 步骤
 
