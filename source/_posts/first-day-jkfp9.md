@@ -1,9 +1,10 @@
 ---
 title: 第一天
 date: '2023-10-31 14:26:49'
-updated: '2023-10-31 14:44:00'
+updated: '2023-10-31 14:47:08'
 tags:
   - 每日10个
+  - 考研/单词
 comments: true
 toc: true
 ---
