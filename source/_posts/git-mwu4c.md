@@ -1,12 +1,18 @@
 ---
 title: git基本操作
 date: '2023-10-24 17:35:48'
-updated: '2023-11-01 08:56:34'
+updated: '2023-11-01 09:02:34'
 comments: true
 toc: true
 ---
 
 
+
+git常用的操作命令
+
+<div>
+<!-- more -->
+</div>
 
 ## 一、客户端配置
 
