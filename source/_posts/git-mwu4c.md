@@ -1,7 +1,7 @@
 ---
 title: git基本操作
 date: '2023-10-24 17:35:48'
-updated: '2023-11-01 09:02:34'
+updated: '2023-11-01 09:05:00'
 comments: true
 toc: true
 ---
@@ -46,7 +46,7 @@ git status：查看工作区、暂存区的状态
 git add <file name>：将工作区的“新建/修改”添加到暂存区
 git rm --cached <file name>：移除暂存区的修改
 git commit <file name>：将暂存区的内容提交到本地库
-								tip：需要再编辑提交日志，比较麻烦，建议用下面带参数的提交方法
+	tip：需要再编辑提交日志，比较麻烦，建议用下面带参数的提交方法
 git commit -m "提交日志" <file name>：文件从暂存区到本地库
 ```
 
