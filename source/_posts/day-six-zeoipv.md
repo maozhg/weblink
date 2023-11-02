@@ -1,7 +1,10 @@
 ---
 title: 第六天
 date: '2023-11-02 08:55:58'
-updated: '2023-11-02 08:56:16'
+updated: '2023-11-02 08:56:38'
+tags:
+  - 每日10个
+  - 考研/单词
 comments: true
 toc: true
 ---
