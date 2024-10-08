@@ -38,6 +38,10 @@ Redis 英文 **Remote Dictionary Server**(远程字典服务)，是一个开元�
 
 因为数据是在内存中的，它的读写速度非常快。因此**广泛应用于缓存**，还可以用来做**分布式锁**。
 
+‍
+
+<!-- more -->
+
 ## 2. 说说Redis的基本数据结构类型
 
 <iframe src="/widgets/widget-excalidraw/" data-src="/widgets/widget-excalidraw/" data-subtype="widget" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
